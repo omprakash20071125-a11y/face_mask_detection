@@ -32,3 +32,6 @@ is wearing a face mask or not.
 ## 🤝 Acknowledgements
 - Dataset from https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 - OpenCV implementation with help from AI assistance
+
+## view the Notebook
+[![View Notebook](https://img.shields.io/badge/Rendered%20with-NBViewer-orange?style=for-the-badge&logo=jupyter)](https://nbviewer.org/github/omprakash20071125-a11y/face_mask_detection/blob/main/face_with_or_without_mask-2.ipynb)
